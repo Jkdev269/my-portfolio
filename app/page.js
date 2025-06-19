@@ -221,7 +221,7 @@ const Portfolio = () => {
             }`}
           >
             <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-purple-400 via-pink-400 to-red-400 bg-clip-text text-transparent animate-pulse">
-              Hi, I'm Jaharuddin
+              Hi, I&apos;m Jaharuddin
             </h1>
 
             <h2 className="text-2xl md:text-3xl font-semibold text-gray-100 mb-4">
@@ -230,7 +230,7 @@ const Portfolio = () => {
 
             <p className="text-lg md:text-xl text-gray-300 max-w-2xl mx-auto mb-4 leading-relaxed">
               I craft full-stack web applications using MongoDB, Express.js,
-              React.js, and Node.js. I'm a BCA graduate with a strong passion
+              React.js, and Node.js. I&apos;m a BCA graduate with a strong passion
               for building impactful digital solutions.
             </p>
 
@@ -294,7 +294,7 @@ const Portfolio = () => {
               {/* Left Side: Text Content */}
               <div className="space-y-6">
                 <p className="text-lg text-gray-300 leading-relaxed">
-                  Hi, I'm{" "}
+                  Hi, I&apos;m{" "}
                   <span className="text-white font-semibold">Jaharuddin</span>,
                   a MERN Stack Developer with a strong foundation in web
                   technologies and a degree in BCA. I specialize in building
@@ -303,7 +303,7 @@ const Portfolio = () => {
                 </p>
 
                 <p className="text-lg text-gray-300 leading-relaxed">
-                  I've built several projects that reflect my skills and
+                  I&apos;ve built several projects that reflect my skills and
                   creativity, including a{" "}
                   <span className="text-white font-medium">
                     Website Generator
@@ -324,7 +324,7 @@ const Portfolio = () => {
                 </p>
 
                 <p className="text-lg text-gray-300 leading-relaxed">
-                  I'm always eager to learn and take on new challenges. Whether
+                  I&apos;m always eager to learn and take on new challenges. Whether
                   it’s frontend interactivity or backend logic, I enjoy bringing
                   ideas to life with clean, maintainable code.
                 </p>
@@ -500,8 +500,8 @@ const Portfolio = () => {
             </h2>
             <div className="text-center mb-12">
               <p className="text-xl text-gray-300 mb-8 leading-relaxed">
-                I'm always interested in new opportunities and exciting
-                projects. Let's connect and create something amazing together!
+                I&apos;m always interested in new opportunities and exciting
+                projects. Let&apos;s connect and create something amazing together!
               </p>
             </div>
             <div className="grid md:grid-cols-3 gap-8">
